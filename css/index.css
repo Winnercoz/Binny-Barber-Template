@@ -1,5 +1,5 @@
 body {
-	background: ;
+	background:rgb(245, 236, 236) ;
 	font-family: sans-serif;
 	line-height: 1.6;
 }
@@ -515,20 +515,6 @@ footer {
     
     .main-box-1:hover {
         background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.3)),url('../image/showcase-vi.jpg');
-        background-size: cover;
-        color: white;
-    }
-    
-    .main-box-2 {
-        border: 5px solid #3322;
-        height: 300px;
-        text-align: center;
-        background: url('../image/showcase-vii.jpg');
-        background-size: cover;
-    }
-    
-    .main-box-2:hover {
-        background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.3)),url('../image/showcase-vii.jpg');
         background-size: cover;
         color: white;
     }
